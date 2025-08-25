@@ -98,6 +98,3 @@ def calculate() { ... }
 
 [^1]: [https://community.jenkins.io/t/final-keyword-doesnt-work-properly-in-pipeline/33172](https://community.jenkins.io/t/final-keyword-doesnt-work-properly-in-pipeline/33172)
 [^2]: [https://issues.jenkins.io/browse/JENKINS-76013](https://issues.jenkins.io/browse/JENKINS-76013)
-
-
-

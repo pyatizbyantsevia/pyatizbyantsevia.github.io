@@ -46,7 +46,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: C_8F-4E1BZqkY4lbRmRtx9rZUGxV5o7IgoBPg-9fBy0
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -76,7 +76,6 @@ analytics:
 # Page views settings
 pageviews:
   provider: goatcounter
-  goatcounter: pyatizbyantsevia.goatcounter.com
 
 # Prefer color scheme setting.
 #
